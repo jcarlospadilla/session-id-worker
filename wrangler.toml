@@ -1,0 +1,3 @@
+name = "session-cookie-worker"
+main = "worker.js"
+compatibility_date = "2024-02-01"
